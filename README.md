@@ -1,6 +1,6 @@
 # vehicles_classifier
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://hub.gke2.mybinder.org/user/ronigold-vehicles_classifier-awg1xios/voila/render/vehicles_classifier.ipynb?token=Vrdlf_VtRE-fQbvAloljqQ)
 
 
 A basic model of computer vision that classifies vehicles.
