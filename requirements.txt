@@ -3,5 +3,4 @@ fastai>=2
 pillow<7
 packaging
 IPython
-warnings
 ipywidgets==7.5.1
