@@ -4,3 +4,5 @@ pillow<7
 packaging
 IPython
 ipywidgets==7.5.1
+opencv-python==4.4.0.46
+tensorflow==2.0
